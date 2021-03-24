@@ -1,7 +1,7 @@
 .idea
 *.gem
 .bundle
-Gemfile.lock
+# Gemfile.lock
 pkg/*
 .rvmrc
 .rspec
